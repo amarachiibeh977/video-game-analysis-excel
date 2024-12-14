@@ -1,5 +1,6 @@
 # **Video Game Data Analysis (1980–2017)**  
 
+![](vg_pic.jfif)
 ---
 
 ## **Table of Contents**  
@@ -65,7 +66,7 @@ The following steps were taken to build the dashboard:
 
 ## **Dashboard Insights**  
 
-![](videogame_db.jpg)
+![](videogame_db.jpeg)
 
 1. **Top Game Genre:**  
    - *Action* games dominate with **19.98%** of all games and the highest sales.  
